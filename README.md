@@ -44,5 +44,5 @@ Evaluate success based on:
 - Segmentation Accuracy
 
 ## Conclusion
-The project aims to surpass existing methodologies, demonstrating efficacy through comprehensive performance metrics. The research team provides a list of current Medical Image Processing Project Ideas for interested scholars. For the latest developments, contact our research team.
+The project aims to surpass existing methodologies, demonstrating efficacy through comprehensive performance metrics.
 
